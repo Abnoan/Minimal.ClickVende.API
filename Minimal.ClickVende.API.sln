@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minimal.ClickVende.API", "Minimal.ClickVende.API\Minimal.ClickVende.API.csproj", "{8223D038-698D-4092-94EC-5E2F45BE5FD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8223D038-698D-4092-94EC-5E2F45BE5FD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8223D038-698D-4092-94EC-5E2F45BE5FD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8223D038-698D-4092-94EC-5E2F45BE5FD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8223D038-698D-4092-94EC-5E2F45BE5FD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A34F273-B7AB-442D-B3EB-59B048B8B677}
+	EndGlobalSection
+EndGlobal

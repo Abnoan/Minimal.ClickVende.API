@@ -1,0 +1,6 @@
+@Minimal.ClickVende.API_HostAddress = http://localhost:5062
+
+GET {{Minimal.ClickVende.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
